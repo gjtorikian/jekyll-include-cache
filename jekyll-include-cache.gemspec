@@ -4,7 +4,7 @@ $LOAD_PATH.unshift File.expand_path("../lib", __FILE__)
 require "jekyll-include-cache/version"
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-include-cache"
+  s.name          = "jekyll-include-cached"
   s.version       = JekyllIncludeCache::VERSION
   s.authors       = ["Ben Balter"]
   s.email         = ["ben.balter@github.com"]
